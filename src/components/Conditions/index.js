@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFF',
     borderRadius: 8,
     flexDirection: 'row',
-    width: '90%',
+    width: '93%',
     justifyContent: 'space-around',
   },
   condition: {

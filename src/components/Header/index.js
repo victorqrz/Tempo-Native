@@ -27,7 +27,7 @@ export default function Header() {
 
 const styles = StyleSheet.create({
   header: {
-    width: '90%',
+    width: '93%',
     height: '55%',
     alignItems: 'center',
     justifyContent: 'center',
