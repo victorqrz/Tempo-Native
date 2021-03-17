@@ -73,7 +73,8 @@ export default function Home() {
         icon={icon}
       />
       <Conditions weather={weather}/>
-      <FlatList 
+      <FlatList
+        showsHorizontalScrollIndicator={false}
         horizontal={true}
         contentContainerStyle={{paddingBottom: '5%'}}
         style={styles.list}
